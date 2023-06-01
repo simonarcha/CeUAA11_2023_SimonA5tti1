@@ -1,0 +1,13 @@
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\bin\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.exe
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\bin\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.deps.json
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\bin\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.runtimeconfig.json
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\bin\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.runtimeconfig.dev.json
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\bin\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.dll
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\bin\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.pdb
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\obj\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.csprojAssemblyReference.cache
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\obj\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.AssemblyInfoInputs.cache
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\obj\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.AssemblyInfo.cs
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\obj\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.csproj.CoreCompileInputs.cache
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\obj\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.dll
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\obj\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.pdb
+C:\Users\210303\Documents\CeUAA11_2023_SimonA5tti1\CeUAA11_2023_SimonA5tti1\obj\Debug\netcoreapp3.1\CeUAA11_2023_SimonA5tti1.genruntimeconfig.cache
